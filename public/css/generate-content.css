@@ -1,0 +1,141 @@
+body {
+    background-color: #efefef;
+    /* padding-top: 64px; */
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    margin: 0 auto;
+    column-gap: 20px;
+}
+
+.content-area {
+    width: 50%;
+    background-color: #ffffff;
+}
+
+.form-area {
+    width: 50%;
+}
+
+.content-generation-form .field-container {
+    display: flex;
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.content-generation-form .field-container label {
+    width: 30%;
+}
+
+
+.field-container > div  {
+    width: 70%;
+}
+
+.field-container input, .field-container textarea, .field-container select {
+    padding: 14px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.field-container input#num_copies {
+    width: 30%;
+}
+
+.button-container {
+    display: block;
+}
+
+.button-container input {
+    width: auto;
+}
+
+.content-area {
+    padding: 20px;
+}
+
+.content-block {
+    border: 1px solid gray;
+    margin: 75px 0;
+    padding: 5px 20px;
+    position: relative;
+}
+
+.content-area h1 {
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.content-area h2 {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.content-area h3 {
+    font-size: 18.7px;
+    font-weight: 600;
+}
+
+.content-area h4 {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.content-area h5 {
+    font-size: 13.3px;
+    font-weight: 600;
+}
+
+.content-area h6 {
+    font-size: 10.8px;
+    font-weight: 600;
+}
+
+.tab {
+    position: absolute;
+    top: -39px;
+    left: 8px;
+    border: 1px solid gray;
+    border-bottom: 0px;
+    margin: 0;
+    padding: 10px 20px;
+    z-index: 100;
+    background: #ffffff;
+}
+
+.content-area, input, select {
+    border: 0px;
+    border-radius: 5px;
+}
+
+.field-container input[type="submit"] {
+    background-color: gray;
+    color: #ffffff;
+}
+
+.field-container input[type="submit"]:hover {
+    cursor: pointer;
+}
+
+.loader {
+    border: 16px solid #f3f3f3; /* Light grey */
+    border-top: 16px solid #3498db; /* Blue */
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    animation: spin 2s linear infinite;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    display: none; /* Hidden by default */
+    z-index: 9999;
+}
+
+@keyframes spin {
+    0% { transform: translate(-50%, -50%) rotate(0deg); }
+    100% { transform: translate(-50%, -50%) rotate(360deg); }
+}

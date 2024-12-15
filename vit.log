@@ -1,0 +1,86 @@
+nohup: ignoring input
+
+> dev
+> vite
+
+Port 5173 is in use, trying another one...
+Port 5174 is in use, trying another one...
+Port 5175 is in use, trying another one...
+Port 5176 is in use, trying another one...
+
+  VITE v5.2.12  ready in 298 ms
+
+  ➜  Local:   http://127.0.0.1:5177/
+
+  LARAVEL v10.48.12  plugin v1.0.4
+
+  ➜  APP_URL: http://localhost
+10:45:08 PM [vite] page reload resources/views/components/permission-list.blade.php
+10:49:35 PM [vite] page reload routes/web.php
+10:56:23 PM [vite] page reload routes/web.php
+10:56:41 PM [vite] page reload routes/web.php
+10:57:21 PM [vite] page reload resources/views/components/permission-list.blade.php
+10:58:10 PM [vite] page reload routes/web.php
+10:59:38 PM [vite] page reload routes/web.php
+11:00:08 PM [vite] page reload routes/web.php
+11:00:22 PM [vite] page reload routes/web.php
+11:01:46 PM [vite] page reload routes/web.php
+11:01:53 PM [vite] page reload routes/web.php
+11:02:06 PM [vite] page reload routes/web.php
+11:02:08 PM [vite] page reload routes/web.php
+11:14:59 PM [vite] page reload routes/web.php
+11:15:01 PM [vite] page reload routes/web.php
+11:15:23 PM [vite] page reload routes/web.php
+11:15:25 PM [vite] page reload routes/web.php
+11:21:08 PM [vite] page reload routes/web.php
+11:22:11 PM [vite] page reload routes/web.php
+11:23:08 PM [vite] page reload routes/web.php
+11:27:08 PM [vite] page reload resources/views/admin/announcement/create.blade.php
+11:27:48 PM [vite] page reload resources/views/admin/announcement/create.blade.php
+11:28:01 PM [vite] page reload resources/views/admin/announcement/create.blade.php
+11:30:17 PM [vite] page reload routes/web.php
+11:30:45 PM [vite] page reload routes/web.php
+11:31:32 PM [vite] page reload routes/web.php
+11:31:42 PM [vite] page reload routes/web.php
+11:31:56 PM [vite] page reload routes/web.php
+11:32:16 PM [vite] page reload routes/web.php
+11:32:19 PM [vite] page reload routes/web.php
+11:32:59 PM [vite] page reload resources/views/admin/announcement/create.blade.php
+11:34:24 PM [vite] page reload resources/views/admin/announcement/create.blade.php
+11:34:25 PM [vite] page reload resources/views/admin/announcement/create.blade.php
+11:35:02 PM [vite] page reload resources/views/admin/announcement/create.blade.php
+11:35:42 PM [vite] page reload resources/views/admin/announcement/create.blade.php
+11:36:14 PM [vite] page reload resources/views/admin/announcement/create.blade.php
+11:40:36 PM [vite] page reload resources/views/admin/announcement/create.blade.php
+11:40:56 PM [vite] page reload resources/views/admin/announcement/create.blade.php
+11:41:32 PM [vite] page reload resources/views/admin/announcement/create.blade.php
+11:42:28 PM [vite] page reload resources/views/admin/announcement/create.blade.php
+11:43:04 PM [vite] page reload resources/views/admin/announcement/create.blade.php
+11:49:14 PM [vite] page reload resources/views/admin/announcement/create.blade.php
+12:07:05 AM [vite] page reload resources/views/admin/announcement/create.blade.php
+12:07:53 AM [vite] page reload resources/views/admin/announcement/create.blade.php
+12:08:08 AM [vite] page reload resources/views/admin/announcement/create.blade.php
+12:08:18 AM [vite] page reload resources/views/admin/announcement/create.blade.php
+12:09:42 AM [vite] page reload resources/views/admin/announcement/create.blade.php
+12:10:04 AM [vite] page reload resources/views/admin/announcement/create.blade.php
+12:10:53 AM [vite] page reload resources/views/layouts/app.blade.php
+12:12:51 AM [vite] page reload resources/views/admin/announcement/create.blade.php
+12:13:13 AM [vite] page reload resources/views/admin/announcement/create.blade.php
+12:14:10 AM [vite] page reload resources/views/admin/announcement/create.blade.php
+12:16:07 AM [vite] page reload resources/views/admin/announcement/create.blade.php
+12:16:12 AM [vite] page reload resources/views/admin/announcement/create.blade.php
+12:17:24 AM [vite] page reload routes/web.php
+12:17:40 AM [vite] page reload routes/web.php
+12:54:33 AM [vite] page reload resources/views/admin/announcement/create.blade.php
+e] page reload resources/views/admin/announcement/create.blade.php
+12:10:53 AM [vite] page reload resources/views/layouts/app.blade.php
+12:10:53 AM [vite] page reload resources/views/layouts/app.blade.php
+12:10:57 AM [vite] page reload storage/framework/views/a4f10ca6f9cffb768f600118458546bb.php
+12:12:51 AM [vite] page reload resources/views/admin/announcement/create.blade.php
+12:13:13 AM [vite] page reload resources/views/admin/announcement/create.blade.php
+12:14:10 AM [vite] page reload resources/views/admin/announcement/create.blade.php
+12:16:07 AM [vite] page reload resources/views/admin/announcement/create.blade.php
+12:16:12 AM [vite] page reload resources/views/admin/announcement/create.blade.php
+12:17:24 AM [vite] page reload routes/web.php
+12:17:40 AM [vite] page reload routes/web.php
+12:54:33 AM [vite] page reload resources/views/admin/announcement/create.blade.php

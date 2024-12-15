@@ -1,0 +1,116 @@
+nohup: ignoring input
+
+> dev
+> vite
+
+Port 5173 is in use, trying another one...
+Port 5174 is in use, trying another one...
+
+  VITE v5.2.12  ready in 287 ms
+
+  ➜  Local:   http://127.0.0.1:5175/
+
+  LARAVEL v10.48.12  plugin v1.0.4
+
+  ➜  APP_URL: http://localhost
+12:27:06 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+12:27:06 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+12:27:07 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+12:27:09 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+12:27:09 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+12:27:13 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+12:27:37 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+12:27:37 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+12:27:38 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+12:32:18 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+12:32:18 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+12:32:20 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+12:32:47 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+12:32:47 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+12:32:48 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+12:33:19 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+12:33:19 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+12:33:20 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+12:33:42 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+12:33:42 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+12:33:43 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+12:35:08 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+12:35:08 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+12:35:10 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+12:37:04 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+12:37:04 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+12:37:05 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+12:37:42 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+12:37:42 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+12:37:42 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+12:37:44 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+12:38:03 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+12:38:03 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+12:38:04 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+12:39:04 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+12:39:04 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+12:39:06 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+12:39:31 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+12:39:31 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+12:39:33 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+12:39:48 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+12:39:48 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+12:39:48 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+12:39:49 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+12:44:17 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+12:44:17 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+12:53:25 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+1:14:45 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:14:45 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:14:46 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+1:15:23 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:15:23 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:15:24 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+1:18:38 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:18:38 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:18:39 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+1:19:00 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:19:00 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:19:01 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+1:19:08 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:19:08 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:19:09 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+1:19:27 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:19:27 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:19:28 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+1:19:41 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:19:41 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:19:42 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+1:19:47 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:19:47 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:19:50 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:19:50 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:19:51 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+1:20:06 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:20:06 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:20:07 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+1:21:52 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:21:52 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:21:53 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+1:22:41 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:22:41 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:22:45 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+1:23:07 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:23:07 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:23:09 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+1:25:51 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:25:51 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:25:52 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+1:25:53 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:25:53 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:26:03 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:26:03 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:26:04 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+1:26:06 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:26:06 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:26:12 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:26:12 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:26:13 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php
+1:26:21 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:26:21 PM [vite] page reload resources/views/reporting/pipelineReporting.blade.php
+1:26:21 PM [vite] page reload storage/framework/views/c1331566b205a1752408180fc5481465.php

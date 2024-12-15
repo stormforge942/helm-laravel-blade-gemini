@@ -1,0 +1,32 @@
+{
+  "_axios-CCb-kr4I.js": {
+    "file": "assets/axios-CCb-kr4I.js",
+    "name": "axios"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-D3Ha8pt4.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-BxQAj_VQ.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "_axios-CCb-kr4I.js"
+    ]
+  },
+  "resources/js/wordpress/homepage-handler.js": {
+    "file": "assets/homepage-handler-BPlnXPpk.js",
+    "name": "homepage-handler",
+    "src": "resources/js/wordpress/homepage-handler.js",
+    "isEntry": true,
+    "imports": [
+      "_axios-CCb-kr4I.js"
+    ],
+    "css": [
+      "assets/homepage-handler-BwMxAkBE.css"
+    ]
+  }
+}

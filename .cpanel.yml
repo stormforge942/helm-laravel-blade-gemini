@@ -1,0 +1,9 @@
+deployment:
+  tasks:
+    - source .env
+    - /bin/cp -r ./* $DEPLOYPATH
+    - /opt/cpanel/composer/bin/composer install --no-dev --working-dir=$DEPLOYPATH
+    - cd $DEPLOYPATH
+    - /usr/bin/npm install
+    - if [ -f "$DEPLOYPATH/public/build/.vite/manifest.json" ]; then /bin/cp $DEPLOYPATH/public/build/.vite/manifest.json $DEPLOYPATH/public/build/manifest.json; fi
+    - /bin/rm -rf $DEPLOYPATH/public/build/.vite
